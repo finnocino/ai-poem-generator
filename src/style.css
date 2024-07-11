@@ -1,5 +1,5 @@
 body {
-    background-color: #F9F7FE;
+    background: linear-gradient(89.9deg, rgb(208, 246, 255) 0.1%, rgb(255, 237, 237) 47.9%, rgb(255, 255, 231) 100.2%);
     font-family: "Cerebri Sans", Helvetica, Arial, sans-serif
 }
 
@@ -11,7 +11,7 @@ h1 {
     font-weight: 800;
     font-size: 34px;
     line-height: 1.5;
-    text-align: center;
+    text-align: left;
 }
 
 
